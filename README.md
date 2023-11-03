@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MohamadNematizadeh/website_PlantsAI">
-    <img src="https://github.com/PlantsAI/website/blob/main/static/images/plantsai-logo-with-text.png?raw=true" alt="Logo"  height="50">
+    <img src="https://github.com/PlantsAI/website/blob/main/static/images/plantsai-logo-with-text.png?raw=true" alt="Logo"  height="80">
   </a>
 
   <h3 align="center">  PlantsAI website </h3>
